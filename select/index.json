@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Do it like me",
+  "base_artist": "ゆるふわギャング",
+  "createdAt": "2026-03-01T13:32:09.815802Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Do It Like Me",
+      "artist": "Deliri0us",
+      "has_synced": false,
+      "path": "select/01_Do_It_Like_Me_Deliri0us.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Do It Like Me",
+      "artist": "nimino",
+      "has_synced": false,
+      "path": "select/02_Do_It_Like_Me_nimino.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Do It Like Me",
+      "artist": "Bhad Bhabie",
+      "has_synced": true,
+      "path": "select/03_Do_It_Like_Me_Bhad_Bhabie.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Do it like me",
+      "artist": "Vigorman",
+      "has_synced": false,
+      "path": "select/04_Do_it_like_me_Vigorman.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Do It Like Me",
+      "artist": "NerdOut",
+      "has_synced": true,
+      "path": "select/05_Do_It_Like_Me_NerdOut.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Do It Like Me",
+      "artist": "Cobrayama & Gibbz",
+      "has_synced": false,
+      "path": "select/06_Do_It_Like_Me_Cobrayama_&_Gibbz.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Do It Like Me",
+      "artist": "Kentheman",
+      "has_synced": true,
+      "path": "select/07_Do_It_Like_Me_Kentheman.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Do It Like Me",
+      "artist": "DLOW",
+      "has_synced": false,
+      "path": "select/08_Do_It_Like_Me_DLOW.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Do It Like Me",
+      "artist": "Skepta",
+      "has_synced": true,
+      "path": "select/09_Do_It_Like_Me_Skepta.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Do It Like Me",
+      "artist": "D4L",
+      "has_synced": true,
+      "path": "select/10_Do_It_Like_Me_D4L.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Do It Like Me",
+      "artist": "EBK Jaaybo",
+      "has_synced": false,
+      "path": "select/11_Do_It_Like_Me_EBK_Jaaybo.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bet You Can't Do It Like Me",
+      "artist": "Dlow",
+      "has_synced": true,
+      "path": "select/12_Bet_You_Can't_Do_It_Like_Me_Dlow.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Do It Like Me",
+      "artist": "Silly Silky",
+      "has_synced": true,
+      "path": "select/13_Do_It_Like_Me_Silly_Silky.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Do It Like Me",
+      "artist": "Higher Brothers",
+      "has_synced": false,
+      "path": "select/14_Do_It_Like_Me_Higher_Brothers.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Betcha Can't Do It Like Me",
+      "artist": "D4L",
+      "has_synced": true,
+      "path": "select/15_Betcha_Can't_Do_It_Like_Me_D4L.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Do It Like Me",
+      "artist": "EBK Jaybo",
+      "has_synced": true,
+      "path": "select/16_Do_It_Like_Me_EBK_Jaybo.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Can't Do It Like Me",
+      "artist": "Shawnna",
+      "has_synced": true,
+      "path": "select/17_Can't_Do_It_Like_Me_Shawnna.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Can't Do It Like Me",
+      "artist": "Azealia Banks",
+      "has_synced": false,
+      "path": "select/18_Can't_Do_It_Like_Me_Azealia_Banks.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Do It Like Me",
+      "artist": "A.C.E",
+      "has_synced": true,
+      "path": "select/19_Do_It_Like_Me_A.C.E.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Do It Like Me Baby",
+      "artist": "D4L",
+      "has_synced": true,
+      "path": "select/20_Do_It_Like_Me_Baby_D4L.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Do it like me",
+      "artist": "ゆるふわギャング",
+      "has_synced": false,
+      "path": "select/pl_01_Do_it_like_me_ゆるふわギャング.txt"
+    }
+  ]
+}
